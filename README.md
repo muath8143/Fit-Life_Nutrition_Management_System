@@ -1,4 +1,4 @@
-# 💪 FitLife – Nutrition Management System
+#  FitLife – Nutrition Management System
 
 FitLife is a backend application that helps users manage nutrition plans and calculate daily calorie requirements based on their personal health goals.
 
@@ -17,8 +17,4 @@ FitLife is a backend application that helps users manage nutrition plans and cal
 - JPA
 - REST APIs
 
-## My Contribution
 
-- Backend Development
-- Business Logic
-- Database Design
